@@ -1,4 +1,4 @@
-Hi, I’m @mattjberry, heading into my fourth year of Computer Science at the University of Saskatchewan!
+Hi, I’m @mattjberry,
 
 - 👀 I’m interested in ...
 
