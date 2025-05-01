@@ -6,7 +6,7 @@ Hi, I’m @mattjberry,
   
 - 🌱 I’m currently learning ...
   
-    mostly JavaScript, React and other web tools, and C++
+    mostly HTML/CSS with JavaScript and React framework, and C++
   
 - 📫 How to reach me ...
   
