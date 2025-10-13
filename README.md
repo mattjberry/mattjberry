@@ -1,8 +1,6 @@
 Hi, I’m @mattjberry,
 
-- 👀 I’m interested in ...
-
-    a whole lotta stuff
+I have a lot of good ideas but apparently not a lot of time to do them
   
 - 🌱 I’m currently learning ...
   
