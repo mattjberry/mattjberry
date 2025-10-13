@@ -4,7 +4,7 @@ I have a lot of good ideas but apparently not a lot of time to do them
   
 - 🌱 I’m currently learning ...
   
-    mostly HTML/CSS with JavaScript and React framework, and C++
+    C++, webdev, software design, image processing, algorithms and stuff
   
 - 📫 How to reach me ...
   
