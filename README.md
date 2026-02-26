@@ -4,7 +4,7 @@ I have a lot of good ideas but apparently not a lot of time to do them
   
 - 🌱 I’m currently learning ...
   
-    C++, webdev, software design, image processing, algorithms and stuff
+    Webdev, software design, image processing, algorithms and stuff, software management
   
 - 📫 How to reach me ...
   
